@@ -3,7 +3,9 @@
 ## About
 
 A simple reminder web app created with Reactjs and Redux
+
 node -v : v7.6.0
+
 npm -v : v4.1.2
 
 ## Detail
